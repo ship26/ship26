@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Unity-41BDF5?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp;
-
+<img src="https://img.shields.io/badge/Oracle-F00000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
 ---
 ## About
 <img src="https://ww.namu.la/s/5670d7b84a015322c84045163b32f521b021a043c7c2c9a90ae34ea1f7664d3709b78477448dfe5d9c7615f137f69f10251b5c1a0c7968fd815e84983688cc6e7b7bd1ee9d77dbb864babd12add5a8e9004b5733cfdb98e8367936c9c86cda8f" width="50" height="50"></a>&nbsp;
